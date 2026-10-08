@@ -8,4 +8,5 @@ git add: #agrega los archivos y todo lo cambiado nuevo, con un punto dsp del add
 git commit: #el commit guarda una version de los cambios.
 git log: #el log ve datos espesificos de esre commit como hora,echo por quien y el titulo de ese commit.
 git push: #el git push sirve para subir los commits al github.
+gt clone: #copia el repositorio en la computadora con el link
 ``` 
