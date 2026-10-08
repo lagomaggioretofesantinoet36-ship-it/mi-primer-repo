@@ -1,4 +1,4 @@
-#Comandos espesificos de git
+# **Comandos espesificos de git**
 
 - git init: esto convierte la carpeta en un respositorio.
 - git status: te muestra el estado de los archivos,cuales fueron borrados,cambiados y agregados.
